@@ -1,4 +1,4 @@
-# Projekt-Power-BI: Socio-ekonomické porovnání krajů ČR
+# Power-BI projekt: Socio-ekonomické porovnání krajů ČR
 
 ```
 discord user name: weber.tomas
